@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HifiSlides", "HifiSlides\HifiSlides.csproj", "{204F2995-CF7B-402A-BB84-1ACD61F71409}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidesManager", "SlidesManager\SlidesManager.csproj", "{E198EB62-3D5E-4735-BFF9-BFC2C075D5AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{204F2995-CF7B-402A-BB84-1ACD61F71409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{204F2995-CF7B-402A-BB84-1ACD61F71409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{204F2995-CF7B-402A-BB84-1ACD61F71409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E198EB62-3D5E-4735-BFF9-BFC2C075D5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E198EB62-3D5E-4735-BFF9-BFC2C075D5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E198EB62-3D5E-4735-BFF9-BFC2C075D5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E198EB62-3D5E-4735-BFF9-BFC2C075D5AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
